@@ -1,4 +1,5 @@
 console.log("T02 - Ejercicio 01");
+console.log("Cálculo de la media de tres notas y su calificación correspondiente.");
 let num1 = parseInt(prompt("Introduce la primera nota:"));
 let num2 = parseInt(prompt("Introduce la segunda nota:"));
 let num3 = parseInt(prompt("Introduce la tercera nota:"));
